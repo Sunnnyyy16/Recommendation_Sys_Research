@@ -21,5 +21,12 @@
 13. What key terms and concepts do I not know and need to look up in a dictionary, textbook, or ask someone?
 14. What are your thoughts on the results? Do they seem valid?
 ```
+  (Reference : [Guide to Reading Academic Research Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6), [Kweonwooj's Paper Reading System](https://github.com/kweonwooj/papers/issues))
 
-(Reference : [Guide to Reading Academic Research Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6), [Kweonwooj's Paper Reading System](https://github.com/kweonwooj/papers/issues))
+## List of the Papers
+### 1. Collaborative Deep Learning (CDL)
+:bookmark_tabs:Paper Title : Collaborative deep learning for recommender systems : 
+[CDL paper](http://wanghao.in/paper/KDD15_CDL.pdf) & [CDL github](https://github.com/js05212/CDL)
+
+
+
