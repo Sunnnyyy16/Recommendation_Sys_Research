@@ -29,4 +29,6 @@
 [CDL paper](http://wanghao.in/paper/KDD15_CDL.pdf) & [CDL github](https://github.com/js05212/CDL)
 
 
-
+### 2. Neural Collaborative Filtering (NCF)
+::bookmark_tabs:Paper Title : Neural Collaborative Filtering : 
+[NCF paper](https://arxiv.org/pdf/1708.05031.pdf) & [NCF github](https://github.com/hexiangnan/neural_collaborative_filtering)
