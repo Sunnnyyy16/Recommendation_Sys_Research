@@ -32,3 +32,7 @@
 ### 2. Neural Collaborative Filtering (NCF)
 ::bookmark_tabs:Paper Title : Neural Collaborative Filtering : 
 [NCF paper](https://arxiv.org/pdf/1708.05031.pdf) & [NCF github](https://github.com/hexiangnan/neural_collaborative_filtering)
+
+### 3. Deep Matrix Factorization (DMF)
+::bookmark_tabs:Paper Title : Deep Matrix Factorization :
+[DMF paper](https://www.ijcai.org/Proceedings/2017/0447.pdf)
